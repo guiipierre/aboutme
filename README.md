@@ -1,15 +1,22 @@
 <h1 align="center">Ola👋, eu sou o Guilherme Pierre</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 💼 Atualmente estou trabalhando como Analista de Marketing [V4 Company](https://v4company.com/)
+- 💼 Atualmente estou trabalhando como Analista de Marketing na empresa [V4 Company](https://v4company.com/)
 
 - 🌱 Estou estudando **SQL e Python**
 
-- 💬 Que tal conversarmos sobre **SQL, Excel, Análise de dados**?
+- 💬 Que tal conversarmos sobre **SQL, Excel, Análise de dados e integrações**?
 
-- 📫 Me contate através do e-mail **guiipierre13@gmail.com**
+- 📫 Sabe de uma oportunidade na área de dados? Me avise no: **guiipierre13@gmail.com**
 
 - 📄 Conheça sobre minha carreira [https://www.linkedin.com/in/guilhermepierre/](https://www.linkedin.com/in/guilhermepierre/)
+
+- 📒 Atualmente dividido os horários da minha semana da seguinte forma:
+
+Trabalho     12 hrs    ███████████████████▒░░░░░
+Estudo       2 hrs     ██▓░░░░░░░░░░░░░░░░░░░░░░
+Lazer        1 hr      █▒░░░░░░░░░░░░░░░░░░░░░░░ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
