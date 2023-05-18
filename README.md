@@ -7,15 +7,9 @@
 
 - 💬 Que tal conversarmos sobre **SQL, Excel, Análise de dados e integrações**?
 
-- 📫 Sabe de uma oportunidade na área de dados? Me avise no: **guiipierre13@gmail.com**
+- 📫 Sabe de uma oportunidade na área de dados? Me avise no e-mail: **guiipierre13@gmail.com**
 
 - 📄 Conheça sobre minha carreira [https://www.linkedin.com/in/guilhermepierre/](https://www.linkedin.com/in/guilhermepierre/)
-
-- 📒 Atualmente dividido os horários da minha semana da seguinte forma:
-
-Trabalho     12 hrs    ███████████████████▒░░░░░
-Estudo       2 hrs     ██▓░░░░░░░░░░░░░░░░░░░░░░
-Lazer        1 hr      █▒░░░░░░░░░░░░░░░░░░░░░░░ 
 
 
 <h3 align="left">Connect with me:</h3>
