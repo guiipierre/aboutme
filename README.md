@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **SQL e Python**
 
-- 💬 Que tal conversarmos sobre **SQL, Excel, Análise de dados e integrações**?
+- 💬 Que tal conversarmos sobre **SQL, Excel e Análise de dados**?
 
 - 📫 Sabe de uma oportunidade na área de dados? Me avise no e-mail: **guiipierre13@gmail.com**
 
