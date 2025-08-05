@@ -1,16 +1,3 @@
-<h1 align="center">Ola👋, eu sou o Guilherme Pierre</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados</h3>
-
-- 💼 Atualmente estou trabalhando como Analista de Marketing na empresa [V4 Company](https://v4company.com/)
-
-- 🌱 Estou estudando **SQL e Python**
-
-- 💬 Que tal conversarmos sobre **SQL, Excel e Análise de dados**?
-
-- 📫 Sabe de uma oportunidade na área de dados? Me avise no e-mail: **guiipierre13@gmail.com**
-
-- 📄 Conheça sobre minha carreira [https://www.linkedin.com/in/guilhermepierre/](https://www.linkedin.com/in/guilhermepierre/)
-
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
